@@ -16,3 +16,4 @@
 4. Flood Fill (https://leetcode.com/problems/flood-fill/)
 5. Island Perimeter (https://leetcode.com/problems/island-perimeter/)
 6. Pacific Atlantic Water Flow (https://leetcode.com/problems/pacific-atlantic-water-flow/)
+7. Longest Increasing Path in a Matrix (https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/)
